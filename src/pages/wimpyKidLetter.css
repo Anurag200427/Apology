@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.wimpy-kid-paper {
+  background-image: repeating-linear-gradient(0deg, #f9fafb, #f9fafb 28px, #d1d5db 29px, #f9fafb 30px);
+  border: 2px solid #fbbf24;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.12);
+  position: relative;
+}
+.font-handwriting {
+  font-family: 'Indie Flower', cursive;
+}
