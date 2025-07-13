@@ -100,7 +100,7 @@ export default function LetterPage() {
               <div className="timeline">
                 <div className="timeline-item left">
                   <div className="timeline-img-wrapper">
-                    <img src="/i1.jpg" alt="First Meeting" />
+                    <img src="i1.jpg" alt="First Meeting" />
                   </div>
                   <div className="timeline-content">
                     <h4>First Meeting</h4>
@@ -111,7 +111,7 @@ export default function LetterPage() {
 
                 <div className="timeline-item right">
                   <div className="timeline-img-wrapper">
-                    <img src="/i2.jpg" alt="First Date" />
+                    <img src="i2.jpg" alt="First Date" />
                   </div>
                   <div className="timeline-content">
                     <h4>First Date</h4>
@@ -122,7 +122,7 @@ export default function LetterPage() {
 
                 <div className="timeline-item left">
                   <div className="timeline-img-wrapper">
-                    <img src="/i3.jpeg" alt="Shopping Together" />
+                    <img src="i3.jpeg" alt="Shopping Together" />
                   </div>
                   <div className="timeline-content">
                     <h4>Shopping Together</h4>
@@ -133,7 +133,7 @@ export default function LetterPage() {
 
                 <div className="timeline-item right">
                   <div className="timeline-img-wrapper">
-                    <img src="/i4.jpg" alt="Pinterest Photos" />
+                    <img src="i4.jpg" alt="Pinterest Photos" />
                   </div>
                   <div className="timeline-content">
                     <h4>Clicking Pinterest Photos</h4>
@@ -144,7 +144,7 @@ export default function LetterPage() {
 
                 <div className="timeline-item left">
                   <div className="timeline-img-wrapper">
-                    <img src="/i5.jpeg" alt="I Love You" />
+                    <img src="i5.jpeg" alt="I Love You" />
                   </div>
                   <div className="timeline-content">
                     <h4>Kisses and 'I Love You's</h4>
@@ -155,7 +155,7 @@ export default function LetterPage() {
 
                 <div className="timeline-item right">
                   <div className="timeline-img-wrapper">
-                    <img src="/i6.jpeg" alt="Goodbyes" />
+                    <img src="i6.jpeg" alt="Goodbyes" />
                   </div>
                   <div className="timeline-content">
                     <h4>The Goodbyes</h4>
